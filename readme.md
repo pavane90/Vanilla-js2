@@ -1,3 +1,3 @@
 # Make Only JS Paint!
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.PNG)
